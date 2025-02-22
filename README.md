@@ -2,7 +2,7 @@
 > Performing EDA on a Loan Dataset from a Bank and provide inferences on the parameters which influences the probability of default and provide any other meaningful references
 
 ## NOTE : Please change the location from where you are reading the loan file in the Jupyter notebook, before running Jupyter Notebook
-loan_df = pd.read_csv(r"C:\Users\Niraj\Downloads\loan\loan.csv", dtype=object) to appropriate location
+loan_df = pd.read_csv(r"loan.csv", dtype=object) to appropriate location
 
 
 ## Table of Contents
